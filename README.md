@@ -6,4 +6,4 @@
 จะใช้ nodemon โดยใช้เหมือน node ปกติ คือ nodemon test.js
 
 ## วิธีลง nodemon
-'npm i -g nodemon'
+npm i -g nodemon
