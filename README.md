@@ -5,5 +5,5 @@
 # วิธีรันไฟล์ทุกครั้งที่ save
 จะใช้ nodemon โดยใช้เหมือน node ปกติ คือ nodemon test.js
 
-## วิธีลง nodemon
+# วิธีลง nodemon
 `npm i -g nodemon`
